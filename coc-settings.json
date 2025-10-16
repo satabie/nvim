@@ -1,0 +1,25 @@
+{
+  "clangd.path": "~/.config/coc/extensions/coc-clangd-data/install/16.0.2/clangd_16.0.2/bin/clangd",
+  "diagnostic.virtualText": false,
+  "diagnostic.checkCurrentLine": false,
+  "clangd.disableProgressNotifications": true,
+  "clangd.disableSnippetCompletion": true,
+  "pyright.disableProgressNotifications": true,
+  "pyright.completion.snippetSupport": false,
+  "pyright.inlayHints.variableTypes": false,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "css",
+    "html",
+    "markdown",
+    "typescriptreact",
+    "typescript",
+    "javascriptreact",
+    "javascript",
+    "json",
+    "graphql",
+    "c",
+    "cpp",
+    "python"
+  ],
+  "snippets.ultisnips.pythonPrompt": false
+}
